@@ -178,22 +178,22 @@
    </organizations>
 
    <resources>
-      <resource identifier="SCO0" type="webcontent" adlcp:scormType="sco" href="Toan hoc trong bao toan thong tin.html">
-            <file href="Toan hoc trong bao toan thong tin.html"/>
+      <resource identifier="SCO0" type="webcontent" adlcp:scormType="sco" href="index.html">
+            <file href="index.html"/>
             <dependency identifierref="ALLRESOURCES" />
          </resource>
 
       <resource identifier="ALLRESOURCES" type="webcontent" adlcp:scormType="asset">
-         <file href="Toan hoc trong bao toan thong tin.html" />
+         <file href="index.html" />
             <file href="scripts/techsmith-smart-player.min.js" />
             <file href="scripts/embedded-smart-player.min.js" />
             <file href="skins/remix/techsmith-smart-player.min.css" />
-            <file href="Toan hoc trong bao toan thong tin_embed.css" />
-            <file href="Toan hoc trong bao toan thong tin_player.html" />
-            <file href="Toan hoc trong bao toan thong tin.mp4" />
-            <file href="Toan hoc trong bao toan thong tin_config.xml" />
-            <file href="Toan_hoc_trong_bao_toan_thong_tin_First_Frame.png" />
-            <file href="Toan_hoc_trong_bao_toan_thong_tin_Thumbnails.png" />
+            <file href="index_embed.css" />
+            <file href="index_player.html" />
+            <file href="index.mp4" />
+            <file href="index_config.xml" />
+            <file href="index_First_Frame.png" />
+            <file href="index_Thumbnails.png" />
 
       </resource>
    </resources>   
